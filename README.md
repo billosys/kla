@@ -1,5 +1,8 @@
 # kla
 
+<a href="http://callego.deviantart.com/art/Viking-Clothes-334955145"><img src="resources/images/vikings-small.png" /></a>
+
+*An LFE Wrapper Library used to Dress Up Erlang Libraries in a Lispy Costume*
 
 ## Introduction
 
