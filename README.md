@@ -17,7 +17,7 @@ Just add it to your ``rebar.config`` deps:
   {deps, [
     ...
     {kla, ".*",
-      {git, "git@github.com:YOURNAME/kla.git", "master"}}
+      {git, "git@github.com:billosys/kla.git", "master"}}
       ]}.
 ```
 
