@@ -2,7 +2,7 @@
 {application, 'kla',
  [
   %% A quick description of the application.
-  {description, "My project description..."},
+  {description, "An LFE Wrapper Library used to Dress Up Erlang Libraries in a Lispy Costume"},
 
   %% The version of the application
   {vsn, "0.0.1"},

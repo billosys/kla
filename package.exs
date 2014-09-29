@@ -1,7 +1,7 @@
 Expm.Package.new(
   name: "kla",
-  description: "kla DESCRIPTION",
+  description: "An LFE Wrapper Library used to Dress Up Erlang Libraries in a Lispy Costume",
   version: "0.0.1",
   keywords: ["LFE", "Lisp", "Library", "API"],
-  maintainers: [[name: "YOUR NAME", email: "YOUR@EMAIL.com"]],
-  repositories: [[github: "YOUR_GITHUB_NAME/kla"]])
+  maintainers: [[name: "Bill Ota", email: "bill.ota@billo.systems"]],
+  repositories: [[github: "billosys/kla"]])
