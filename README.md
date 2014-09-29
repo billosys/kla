@@ -1,4 +1,4 @@
-# kla
+# klä
 
 <a href="http://callego.deviantart.com/art/Viking-Clothes-334955145"><img src="resources/images/vikings-small.png" /></a>
 
