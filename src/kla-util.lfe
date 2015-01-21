@@ -2,8 +2,8 @@
   (export all))
 
 (defun get-kla-version ()
-  (lutil:get-app-src-version "src/kla.app.src"))
+  (lutil:get-app-version 'kla))
 
 (defun get-versions ()
-  (++ (lutil:get-version)
+  (++ (lutil:get-versions)
       `(#(kla ,(get-kla-version)))))
